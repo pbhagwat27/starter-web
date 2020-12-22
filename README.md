@@ -7,8 +7,10 @@ Introduction for its sake
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos. Adding more purpose
 
 ## Deployment
+
+Simple web project for deployment
 
 ## How to contribute
